@@ -1,0 +1,70 @@
+body {
+    background-color: ga;
+} 
+
+#title {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+    color: whitesmoke;
+    margin-top: 0;
+    border-radius: 0.1cm;
+}
+
+#subtext {
+    text-align: center;
+    font-size: 0.5cm;
+}
+
+.hauptmenu {
+    background-color: grey;
+    border-radius: 0.1cm;
+    border-color: whitesmoke;
+    border: solid;
+}
+
+li {
+    margin-top: 0.1cm;
+    margin-left: 0.8cm;
+    margin-bottom: 0.2cm;
+}
+
+#link {
+    color: orange;
+}
+
+#link:hover {
+    color: lightsalmon;
+}
+
+#menuh {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+#PC {
+    width: 50%;
+    border: black;
+    border: solid;
+    border-radius: 1cm;
+    margin-top: 0.4cm;
+    margin-left: auto;
+    display: block;
+    margin: auto;
+}
+
+#pc {
+    width: 30%;
+    border-top: black;
+    border: solid;
+    border-radius: 0.7cm;
+}
+
+#pc:hover {
+    border-color: orange;
+    border-radius: 1cm;
+}
+
+#pctypenh {
+    text-decoration-line: underline;
+}
